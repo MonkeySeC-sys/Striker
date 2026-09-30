@@ -1,4 +1,4 @@
-# DNS Exfiltration Toolkit — A Covert Channel via TXT Records
+# Striker — A Covert Channel via TXT Records
 
 [![Go Version](https://shields.io)](https://go.dev)
 [![License](https://shields.io)](LICENSE)
