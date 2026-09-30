@@ -51,8 +51,8 @@ Ensure you have [Go](https://go.devdoc/install) installed on your system.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
-   cd dns-exfil-toolkit
+   git clone https://github.com/MonkeySeC-sys/Striker
+   cd Striker
    ```
 
 2. **Build the binary:**
